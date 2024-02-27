@@ -12,7 +12,7 @@ My expertise spans across various programming languages, including:
 
 - **Solidity:** Crafting secure and efficient smart contracts on Ethereum and other EVM-compatible blockchains.
 - **Move (SUI, Aptos):** Developing on the Move language for the Diem (formerly Libra) blockchain, ensuring reliability and performance.
-- **Rust(learning):** Building high-performance, reliable, and safe blockchain solutions, leveraging Rust's powerful features.
+- **Rust:** Building high-performance, reliable, and safe blockchain solutions, leveraging Rust's powerful features.
 - **JavaScript:** Implementing frontend and backend solutions for web-based DApps, ensuring seamless user experiences.
 - **Frontend & Backend:** Proficient in both frontend and backend development, I ensure end-to-end functionality and user satisfaction in blockchain applications.
 
@@ -22,4 +22,4 @@ With a strong foundation in blockchain technologies and a knack for problem-solv
 
 ## 📫 Let's Connect!
 
-Interested in collaborating or discussing blockchain projects? Feel free to reach out! Let's innovate together and shape the future of decentralized technologies.
+Interested in collaborating or discussing blockchain projects? Feel free to reach out at [bhushanhemanth.dev@gmail.com](bhushanhemanth.dev@gmail.com)! Let's innovate together and shape the future of decentralized technologies.
